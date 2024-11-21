@@ -64,10 +64,4 @@ pip install opencv-python numpy matplotlib
 ## Results
 The reflection removal algorithm successfully suppresses unwanted reflections while retaining the integrity of the original image. The results are visualized for qualitative analysis.
 
----
 
-## Notes
-- Ensure that the input images have sufficient contrast between the reflection and the actual image.
-- This project assumes the use of static images. Adapting the algorithm for video or real-time processing may require further optimizations.
-
----
